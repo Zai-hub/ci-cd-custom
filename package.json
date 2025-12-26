@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Zai-hub/ci-cd-custom#readme",
   "dependencies": {
     "@actions/core": "^2.0.1"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.4"
   }
 }
