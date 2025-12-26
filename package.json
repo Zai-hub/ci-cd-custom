@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zai-hub/ci-cd-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zai-hub/ci-cd-custom/issues"
+  },
+  "homepage": "https://github.com/Zai-hub/ci-cd-custom#readme",
+  "dependencies": {
+    "@actions/core": "^2.0.1"
+  }
+}
